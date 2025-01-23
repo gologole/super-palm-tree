@@ -8,6 +8,7 @@
 //тут ещё съехало
 //тут ещё съехало
 
+<script setup lang="GOLANG">
 // NEW UPDATES
 // NEW UPDATES
 // NEW UPDATES
