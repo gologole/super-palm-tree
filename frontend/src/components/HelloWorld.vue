@@ -1,8 +1,12 @@
 //comment
+
+
+//тут ещё съехало
+
 <script setup lang="ts">
 import { ref } from 'vue'
 
-defineProps<{ message999: string }>()
+defineProps<{ message111: string }>()
 
 const count = ref(0)
 </script>
@@ -12,7 +16,7 @@ const count = ref(0)
 
   <div class="card">
     <button type="button" @click="count++">count is {{ count }}</button>
-    <p>
+    <p>//и тут изменил чето
       Edit
       <code>components/HelloWorld.vue</code> to test HMR
     </p>
