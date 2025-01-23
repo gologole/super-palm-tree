@@ -13,7 +13,7 @@
 // NEW UPDATES
 // NEW UPDATES
 
-<script setup lang="ts">
+<script setup lang="ASP.NET Core">
 /*
 НОВАЯ ФИЧА ЗАЛЕТЕЛА
 *
