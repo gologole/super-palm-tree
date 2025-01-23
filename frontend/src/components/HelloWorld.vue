@@ -2,17 +2,23 @@
 
 
 //тут ещё съехало
+//тут ещё съехало
+//тут ещё съехало
+//тут ещё съехало
+//тут ещё съехало
+//тут ещё съехало
+//тут ещё съехало
 
 <script setup lang="ts">
 import { ref } from 'vue'
 
-defineProps<{ message222: string }>()
+defineProps<{ message777: string }>()
 
 const count = ref(0)
 </script>
 
 <template>
-  <h1>{{ message222 }}</h1>
+  <h1>{{ message777 }}</h1>
 
   <div class="card">
     <button type="button" @click="count++">count is {{ count }}</button>
